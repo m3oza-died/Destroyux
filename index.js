@@ -91,7 +91,7 @@ function getButtons(key) {
 
 // ===== NUKE COMMAND DEFINITION =====
 const nukeCommand = new SlashCommandBuilder()
-    .setName('nuke')
+    .setName('play')
     .setDescription('Ultimate Nuke - Customize and destroy server');
 
 // ===== COMMAND HANDLER =====
